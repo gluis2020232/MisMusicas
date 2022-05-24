@@ -1,3 +1,4 @@
+Trasladados
 --Divino Maestro
 --Fuerza Cristiana
 --Jesuscristo es mi pastor
@@ -5,6 +6,7 @@
 --Los misioneros de cristo
 --Roca incomovible
 
+No Trasladados
 --Unción del Rey
 --Inspiración de Jesus
 --Restauración celestial
@@ -19,13 +21,10 @@
 --Luis Chonay Carismático
 --Misión santa
 --Espiritu Divino
-
-#Adoración Juvenil
-#Orquesta le bendición
-#Los Unidos por cristo
-#Orquesta pan de Vida
-#Poder de Jesucristo
-
-
-Mix Divino Maestro
-https://youtu.be/aEqeJrkmX30
+--Adoración Juvenil
+--Poder de Jesucristo
+--Orquesta le bendición
+--Los Unidos por cristo
+--Orquesta pan de Vida
+--La Voz de Salvación
+--Uncion de cristo
